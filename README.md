@@ -3,7 +3,7 @@ The official implementation for "**Adaptive Multi-Stage Fusion of Hyperspectral 
 ![AMSFN](https://github.com/zhangyiyan001/AMSFN/blob/main/AMSFN_framework.png)
 ****
 
-### requirements
+### Requirements
 ```bash
 torch>=2.0.0
 numpy>=1.21.0
