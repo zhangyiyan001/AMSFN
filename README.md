@@ -3,7 +3,30 @@ The official implementation for "**Adaptive Multi-Stage Fusion of Hyperspectral 
 ![AMSFN](https://github.com/zhangyiyan001/AMSFN/blob/main/AMSFN_framework.png)
 ****
 
-### Requirements
+## Mamba Environment 
+We test our codebase with `PyTorch 1.13.1 + CUDA 11.7` as well as `PyTorch 2.2.1 + CUDA 12.1`. Please install corresponding PyTorch and CUDA versions according to your computational resources. We showcase the environment creating process with PyTorch 1.13.1 as follows.
+
+1. Create environment.
+    ```shell
+    conda create -n sigma python=3.9
+    conda activate sigma
+    ```
+
+2. Install all dependencies.
+Install pytorch, cuda and cudnn, then install other dependencies via:
+    ```shell
+    pip install torch==1.13.1+cu117 torchvision==0.14.1+cu117 torchaudio==0.13.1 --extra-index-url https://download.pytorch.org/whl/cu117
+    ```
+    ```shell
+    pip install -r requirements.txt
+    ```
+
+3. Install Mamba
+    ```shell
+    cd models/encoders/selective_scan && pip install . && cd ../../..
+    ```
+
+## Other Requirements
 ```bash
 torch>=2.0.0
 numpy>=1.21.0
