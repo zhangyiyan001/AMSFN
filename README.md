@@ -1,2 +1,4 @@
-# AMSFN (Adaptive Multi-Stage Fusion of Hyperspectral and LiDAR Data via Selective State Space Models)
-This manuscript is currently under review and we will upload the source code after acceptance.
+## INNFUS_AMSFN
+The official implementation for "**Adaptive Multi-Stage Fusion of Hyperspectral and LiDAR Data via Selective State Space Models**", Information Fusion, 2025.
+![AMSFN](https://github.com/zhangyiyan001/AMSFN/blob/main/CAMSFN_framework.png)
+****
