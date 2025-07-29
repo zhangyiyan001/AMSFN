@@ -26,6 +26,12 @@ Install pytorch, cuda and cudnn, then install other dependencies via:
     cd models/encoders/selective_scan && pip install . && cd ../../..
     ```
 
+## Datasets
+The HS-LiDAR datasets used in this paper can be downloaded from Baidu Netdisk.
+-   **Name**: HS-LiDAR datasets
+-   **Link**: `https://pan.baidu.com/s/12bPrqTl3Iqbfs7jgd5fgqA`
+-   **Extraction Code**: `k95x`
+
 ## Other Requirements
 ```bash
 torch>=2.0.0
