@@ -13,17 +13,15 @@ We test our codebase with `PyTorch 1.13.1 + CUDA 11.7` as well as `PyTorch 2.2.1
     ```
 
 2. Install all dependencies.
-Install pytorch, cuda and cudnn, then install other dependencies via:
+Install pytorch, cuda and cudnn via:
     ```shell
     pip install torch==1.13.1+cu117 torchvision==0.14.1+cu117 torchaudio==0.13.1 --extra-index-url https://download.pytorch.org/whl/cu117
     ```
-    ```shell
-    pip install -r requirements.txt
-    ```
+
 
 3. Install Mamba
     ```shell
-    cd models/encoders/selective_scan && pip install . && cd ../../..
+    cd selective_scan && pip install . && cd ../../..
     ```
 
 ## Datasets
