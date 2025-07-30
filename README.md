@@ -4,12 +4,12 @@ The official implementation for "**Adaptive Multi-Stage Fusion of Hyperspectral 
 ****
 
 ## Mamba Environment 
-We test our codebase with `PyTorch 1.13.1 + CUDA 11.7` as well as `PyTorch 2.2.1 + CUDA 12.1`. Please install corresponding PyTorch and CUDA versions according to your computational resources. We showcase the environment creating process with PyTorch 1.13.1 as follows.
+Please install corresponding PyTorch and CUDA versions according to your computational resources.
 
 1. Create environment.
     ```shell
-    conda create -n sigma python=3.9
-    conda activate sigma
+    conda create -n amsfn python=3.9
+    conda activate amsfn
     ```
 
 2. Install all dependencies.
