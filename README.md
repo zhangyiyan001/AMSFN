@@ -5,7 +5,7 @@ The official implementation for "**Adaptive Multi-Stage Fusion of Hyperspectral 
 
 ## Environment
 
-We only successfully run under Linux. Please install corresponding PyTorch and CUDA versions according to your computational resources. 
+We have successfully tested the environment only on Linux. Please ensure you have the appropriate versions of PyTorch and CUDA installed that match your computational resources.
 
 1. Create environment.
     ```shell
@@ -24,7 +24,7 @@ Install pytorch, cuda and cudnn, then install other dependencies via:
     cd mamba/selective_scan && pip install . && cd ../../
     ```
 
-## How to run it
+## Usage
 ```
 python main.py --dataset Houston --window_size 13 --lr 0.0005 --gpu 0  # For Houston Dataset
 
@@ -35,8 +35,11 @@ python main.py --dataset MUUFL --window_size 5 --lr 0.0008 --gpu 0     # For MUU
 
 
 ## Acknowledgements
-Our  codes are referred on [SIGMA](https://github.com/zifuwan/Sigma) and [LocalMamba](https://github.com/hunto/LocalMamba). We thank the authors for releasing their code!
+Our code is based on the following outstanding projects. We thank the original authors for making their work public!
 
+[SIGMA](https://github.com/zifuwan/Sigma)
+
+[LocalMamba](https://github.com/hunto/LocalMamba)
 
 ## Citation
 If you find our work helpful in your research, kindly consider citing it. We appreciate your support！
