@@ -25,6 +25,14 @@ We have successfully tested the environment only on Linux. Please ensure you hav
     cd mamba/selective_scan && pip install . && cd ../../
     ```
 
+## Dataset
+
+The datasets used in this project can be downloaded from Baidu Netdisk.
+
+Link: https://pan.baidu.com/s/12bPrqTl3Iqbfs7jgd5fgqA
+Extraction Code: k95x
+
+
 ## Usage
 
 You can run the model on different datasets using the following commands:
