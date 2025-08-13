@@ -1,0 +1,11 @@
+# ninja log v5
+0	27136	1745322621225564979	/data/ZYY/Me/CNN+Mamba/mamba/selective_scan/build/temp.linux-x86_64-cpython-39/csrc/selective_scan/selective_scan.o	2f992386615a5de2
+1	29718	1745322623797245780	/data/ZYY/Me/CNN+Mamba/mamba/selective_scan/build/temp.linux-x86_64-cpython-39/csrc/selective_scan/selective_scan_core_fwd2.o	75403c71cdaefea1
+2	38313	1745322632388189003	/data/ZYY/Me/CNN+Mamba/mamba/selective_scan/build/temp.linux-x86_64-cpython-39/csrc/selective_scan/selective_scan_core_fwd3.o	92efd99735296f37
+2	48452	1745322642518961375	/data/ZYY/Me/CNN+Mamba/mamba/selective_scan/build/temp.linux-x86_64-cpython-39/csrc/selective_scan/selective_scan_core_fwd4.o	6b6d6268318ff7f
+1	75740	1745322669815750747	/data/ZYY/Me/CNN+Mamba/mamba/selective_scan/build/temp.linux-x86_64-cpython-39/csrc/selective_scan/selective_scan_core.o	317943b882fc1288
+26	24994	1745323501879252435	/data/ZYY/Me/CNN+Mamba/mamba/selective_scan/build/temp.linux-x86_64-cpython-39/csrc/selective_scan/selective_scan.o	598aab67e9116cab
+27	30916	1745323507791015506	/data/ZYY/Me/CNN+Mamba/mamba/selective_scan/build/temp.linux-x86_64-cpython-39/csrc/selective_scan/selective_scan_core_fwd2.o	7be2fd718efe852
+28	39865	1745323516734659414	/data/ZYY/Me/CNN+Mamba/mamba/selective_scan/build/temp.linux-x86_64-cpython-39/csrc/selective_scan/selective_scan_core_fwd3.o	50e2d7d26c7ad6d7
+28	47583	1745323524450354451	/data/ZYY/Me/CNN+Mamba/mamba/selective_scan/build/temp.linux-x86_64-cpython-39/csrc/selective_scan/selective_scan_core_fwd4.o	34c3dd89b94bb35f
+27	76681	1745323553553222274	/data/ZYY/Me/CNN+Mamba/mamba/selective_scan/build/temp.linux-x86_64-cpython-39/csrc/selective_scan/selective_scan_core.o	fcabd11a6dcb09f1
