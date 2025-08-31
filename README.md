@@ -1,4 +1,4 @@
-## INNFUS AMSFN
+## INFFUS AMSFN
 This is the official implementation for the paper **"Adaptive Multi-Stage Fusion of Hyperspectral and LiDAR Data via Selective State Space Models"**, published in *Information Fusion*, 2025.
 ![AMSFN](https://github.com/zhangyiyan001/AMSFN/blob/main/framework.png)
 ****
